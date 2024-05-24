@@ -102,9 +102,12 @@ section#img01 {
     background-position: right center;
 }
 
-section#img2 {
+section#img002 {
    
     background-image: url('imagens/background002.jpg');
+    
+  
+
 }
 
 footer nav a {
